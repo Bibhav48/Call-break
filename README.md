@@ -57,7 +57,3 @@ Feel free to contribute to this project by suggesting improvements or reporting 
 ## License
 
 This project is licensed under the MIT License.
-
-## Acknowledgments
-
-Thanks to all contributors and the community for support and inspiration in developing this card game. Enjoy playing!
